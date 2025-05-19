@@ -68,7 +68,7 @@ void merge(int arr[], int esquerda_metade, int meio, int direita_metade)
 
 void mergeSort(int arr[], int left, int right)
 {
-	if (l < r) {
+	if (left < right) {
 		int middle = left + (right - left) / 2;
 
 		mergeSort(arr, left, middle);
