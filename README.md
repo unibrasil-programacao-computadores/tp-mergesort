@@ -1,5 +1,5 @@
 # tp-mergesort
-Repositório oficial da equipe Counting Sort para o TP2 - Algoritmos de Ordenação.
+Repositório oficial da equipe Merge Sort para o TP2 - Algoritmos de Ordenação.
 
 Integrantes:
 Lucas A. P. - 2024203287
