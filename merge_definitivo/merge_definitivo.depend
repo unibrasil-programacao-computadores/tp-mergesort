@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1748822040 source:c:\users\laura dias\tp-mergesort\merge_definitivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"merge.h"
+
+1748821899 c:\users\laura dias\tp-mergesort\merge_definitivo\merge.h
+	<stdio.h>
+	<stdlib.h>
+
+1748822040 source:c:\users\laura dias\tp-mergesort\merge_definitivo\merge.c
+	<stdio.h>
+	<stdlib.h>
+	"merge.h"
+
