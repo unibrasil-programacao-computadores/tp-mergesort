@@ -45,9 +45,12 @@ void junta_vetor(double *vet, int inicio, int fim)
     int esquerda_meio = meio - inicio + 1;
     int direita_meio = fim - meio;
 
-    double *aux_esquerda = malloc(sizeof(double) * esquerda_meio);
-    double *aux_direita = malloc(sizeof(double) * direita_meio);
+    double *aux_esquerda;
+    double *aux_direita;
 
+    aux_esquerda = malloc(sizeof(double) * esquerda_meio);
+    aux_direita = malloc(sizeof(double) * direita_meio);
+    
     for(int i = 0; i < esquerda_meio; i++)
     {
         aux_esquerda[i] = vet[inicio + i];
