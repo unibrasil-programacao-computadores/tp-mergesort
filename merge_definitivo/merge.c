@@ -89,4 +89,6 @@ void junta_vetor(double *vet, int inicio, int fim)
         j++;
         k++;
     }
+    free(aux_esquerda);                                                          // \         /
+    free(aux_direita);//esquecemos de liberar a memoria dos vetores auxiliares dnv   \(〇□〇)/
 }
