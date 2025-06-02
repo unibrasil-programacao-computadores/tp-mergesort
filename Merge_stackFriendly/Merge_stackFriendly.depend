@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1748829881 source:c:\users\laura dias\tp-mergesort\merge_stackfriendly\main.c
+	<stdio.h>
+	<stdlib.h>
+
