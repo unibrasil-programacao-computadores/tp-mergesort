@@ -116,8 +116,10 @@ void merge(double *vet, int inicio, int fim)
     }
     while(j < direita_meio)
     {
-        vet[k] = aux_direita[i];
+        vet[k] = aux_direita[j]; // corrigindo: aux_direita estava como "aux direita[i]"  \(˚☐˚”)/ 
         j++;
         k++;
     }
+    free(aux_esquerda);
+    free(aux_direita);//esquecemos de liberar a memoria dos vetores auxiliares  \(˚☐˚”)/ 
 }
