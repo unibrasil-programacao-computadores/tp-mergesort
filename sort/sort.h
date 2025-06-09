@@ -23,7 +23,7 @@ void bucketsort(double* arr, long arr_size);
 
 void mergesort(double* arr, long arr_size);
 void separa_vetor(double *arr, int inicio, int fim);
-void separa_vetor(double *arr, int inicio, int fim);
+void junta_vetor(double *arr, int inicio, int fim);
 
 //-----------------------------------------------------------------------------------------------------------//
 //-----------------------------------------------------------------------------------------------------------//
