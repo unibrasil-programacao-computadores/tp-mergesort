@@ -53,3 +53,21 @@
 1746746257 source:c:\users\laura dias\tp0-2024203287\sort\sort.c
 	"sort.h"
 
+1749591409 source:c:\users\laura dias\tp-mergesort\sort\input.c
+	"input.h"
+
+1749591409 c:\users\laura dias\tp-mergesort\sort\input.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1749591428 source:c:\users\laura dias\tp-mergesort\sort\main.c
+	"sort.h"
+	"input.h"
+
+1749591429 c:\users\laura dias\tp-mergesort\sort\sort.h
+	<stdlib.h>
+
+1749591428 source:c:\users\laura dias\tp-mergesort\sort\sort.c
+	"sort.h"
+
